@@ -1,0 +1,22 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+yarn-error.log
+yarn.lock
+.eslintignore
+.eslintrc.js
+.npmignore
+.prettierignore
+.prettiererrc
+.solhint.json
+.solhintignore
+gas-report.txt
+gas-reporter.txt
+.prettierrc
+deployments
+.gitignore
+#Hardhat files
+cache
+artifacts
